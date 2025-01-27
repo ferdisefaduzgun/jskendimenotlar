@@ -71,7 +71,8 @@
 13. **`Object.getPrototypeOf(object)`**: Belirtilen nesnenin prototipini döndürür.
 14. **`Object.setPrototypeOf(object, prototype)`**: Belirtilen nesnenin prototipini ayarlar.
 
-![[arr-method.png]]
+![arr-method](https://github.com/user-attachments/assets/8315b525-ad71-4e1f-acec-d53260ea164e)
+
 
 bir değişken bir kere tanımlandıktan sonra istediğin yerde kullanılabilir , without let const 
 document sayfa içeriğini değiştiren bir özellik
